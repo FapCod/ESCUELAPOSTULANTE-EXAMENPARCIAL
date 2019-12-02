@@ -1,0 +1,9 @@
+c:\users\frank\documents\visual studio 2013\Projects\ESCUELAPOSTULANTE-EXAMENPARCIAL\CapaEntidad\bin\Debug\CapaEntidad.exe.config
+c:\users\frank\documents\visual studio 2013\Projects\ESCUELAPOSTULANTE-EXAMENPARCIAL\CapaEntidad\bin\Debug\CapaEntidad.exe
+c:\users\frank\documents\visual studio 2013\Projects\ESCUELAPOSTULANTE-EXAMENPARCIAL\CapaEntidad\bin\Debug\CapaEntidad.pdb
+c:\users\frank\documents\visual studio 2013\Projects\ESCUELAPOSTULANTE-EXAMENPARCIAL\CapaEntidad\bin\Debug\CapaEntidad.xml
+c:\users\frank\documents\visual studio 2013\Projects\ESCUELAPOSTULANTE-EXAMENPARCIAL\CapaEntidad\obj\Debug\CapaEntidad.Resources.resources
+c:\users\frank\documents\visual studio 2013\Projects\ESCUELAPOSTULANTE-EXAMENPARCIAL\CapaEntidad\obj\Debug\CapaEntidad.vbproj.GenerateResource.Cache
+c:\users\frank\documents\visual studio 2013\Projects\ESCUELAPOSTULANTE-EXAMENPARCIAL\CapaEntidad\obj\Debug\CapaEntidad.exe
+c:\users\frank\documents\visual studio 2013\Projects\ESCUELAPOSTULANTE-EXAMENPARCIAL\CapaEntidad\obj\Debug\CapaEntidad.xml
+c:\users\frank\documents\visual studio 2013\Projects\ESCUELAPOSTULANTE-EXAMENPARCIAL\CapaEntidad\obj\Debug\CapaEntidad.pdb
